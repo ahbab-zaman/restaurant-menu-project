@@ -81,6 +81,7 @@
     background-color: black;
     color: wheat;
     transform: all 0.4s;
+    cursor: pointer;
 }
 .btn-box{
     display: flex;
